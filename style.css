@@ -1,0 +1,21 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+body{
+    margin-left: 20%; 
+    margin-right: 20%; 
+    margin-bottom: 5%;
+}
+h1{
+    text-align: left; 
+    margin-left: 20px; 
+    border-top: 50px;
+}
+.skill{
+    width: auto; 
+    height: auto;
+}
+ul{
+    margin-top: -10px;
+}
